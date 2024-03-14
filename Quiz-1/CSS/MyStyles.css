@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+base{
+
+    background-color: #fcf7d1; 
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.imagen-construccion {
+    
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;   
+    border-radius: 5px;
+    border-color: brown;
+
+    margin-top: 0%;       
+    margin-left: 5%;
+    margin-right: 10%;
+    position: absolute;   
+      
+}
+
+.Targeta{
+
+    background-color: #b52c00;    
+    margin-right: 20%;
+    margin-left: 50%;
+    
+}
+
+.Llamado_Accion{
+    
+    align-content: center;
+   
+}
+
+footer{
+    text-align: center;
+    margin-top: auto;
+}

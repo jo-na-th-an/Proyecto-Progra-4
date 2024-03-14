@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+
+    background-image: url('/Quiz-1/Imagenes/GestionMuni.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center; 
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.ContenedorTargetas{
+
+    display: flex;
+
+}
+
+.Targeta{
+    
+        margin-top: 2%;       
+        margin-left: 10%;
+        margin-right: 10%;
+        position: absolute;    
+
+}
+
+.Targeta1{
+            
+    margin-left: 5%;
+    margin-top: 2%;    
+
+}
+
+.UltimoTitulo{
+
+    text-align: center;
+    width: auto;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.75);
+    
+    margin-top: 2%;      
+}
+
+.Consecuencias{
+
+
+    margin-left: 35%;
+}
+
+footer{
+
+    text-align: center;    
+    margin-top: auto;
+}
